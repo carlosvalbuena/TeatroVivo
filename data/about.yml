@@ -1,0 +1,23 @@
+enable : true
+heading : Compañia
+headingSpan : Teatro Vivo de Colombia
+aboutItem :
+- url : images/placeholder.jpg
+  title : Escuela Nacional de Psicodramaturgia
+  content : Nuestros artistas se forman con los preparadores de la Escuela Nacional Psicodramática, que garantiza una formación completamente técnica orientada a la exitosa fórmula del "Psicodrama de creación". La Escuela ofrece el Curso Regular que es el programa enfocado en los interesados en ser actores profesionales, ofrece además talleres libres con diferentes temáticas especializadas.
+
+- url : images/placeholder.jpg
+  title : Escuela de Comunicación Efectiva
+  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+- url : images/placeholder.jpg
+  title : Teatro Juvenil
+  content : Los sábados en la mañana se reúnen los jóvenes de nuestro semillero de talentos, ellos crean, juegan y expresan haciendo teatro. Las inscripciones son permanentes, si tienes entre 10 y 16 años ingresa a nuestro taller.
+
+- url : images/placeholder.jpg
+  title : Marketing Personal
+  content : Si estás interesado en conocer más sobre la comunicación de ideas como método para crecer en el trabajo y en ambientes de liderazgo, no dejes de tomar este taller que ofrece nuestra Escuela.
+
+- url : images/placeholder.jpg
+  title : Taller Pánico Escenico
+  content : Desde hace seis años Teatro Vivo ofrece un programa completo orientado a personas tímidas; el taller busca que los participantes exploren expresivamente sobre sus propios límites comunicativos, prejuicios y suscesos colectivos que los inhiben. También el programa ofrece módulos para líderes que quieren mejorar sus competencias comunicativas y su relación con equipos de trabajo.
