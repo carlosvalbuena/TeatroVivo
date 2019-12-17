@@ -1,0 +1,12 @@
+enable : true
+image : images/about/que-es-teatro-vivo.jpg
+title : ¿Qué es Teatro Vivo?.
+description : Teatro Vivo es una Compañia teatral con un lenguaje propio, En nuestras obras el protagonista siempre es el publico.
+description2 : Nuestros espectaculos se presentan en espacios no convencionales como casas viejas de la ciudad, bosques, buses, etc. El publico asume un rol de un personaje y a modo de juego ingresa en el Espectaculo. El espectador mas que ver, vive una experencia escénica.
+aboutItem :
+  - icon : tf-circle-compass
+    title : Publico-Actor
+    content : Nuestro proyecto es una apuesta escénica que propone la vinculación del público como agente interactivo del hecho escénico; es decir asume el rol de un personaje y desde esta perspectiva disfruta el Espectáculo.
+  - icon : tf-hotairballoon
+    title : Teatro de inmersión
+    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

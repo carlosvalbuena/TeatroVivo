@@ -1,0 +1,20 @@
+enable : true
+heading : Contactanos
+headingSpan :
+title : Casa Teatro de Bogota
+content : La Casa Teatro de Bogotá es una Sala Concertada con el Ministerio de Cultura que se dedica por completo al desarrollo y estímulo de las artes escénicas en Colombia; sede principal de la Compañía Teatro Vivo de Colombia presenta espectáculos teatrales interactivos no convencionales.
+enable_maps : yes
+mapLatitude : 4.629849
+mapLongitude: -74.070779
+contactDetails :
+  - icon : tf-map-pin
+    info : "Diagonal 40a # 16-66, Bogotá, Colombia"
+
+  - icon : tf-ion-ios-telephone-outline
+    info : "Telefono: (1)303 5747"
+
+  - icon : tf-ion-ios-telephone-outline
+    info : "Celular: +57 313 251 1515"
+
+  - icon : tf-ion-ios-email-outline
+    info : "Email: somos@teatrovivocolombia.com"
